@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  /home/leonardo/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-ld -EL    -r -o drivers/serial/built-in.o drivers/serial/serial_core.o drivers/serial/8250.o drivers/serial/8250_pci.o drivers/serial/samsung.o drivers/serial/s5pv210.o 

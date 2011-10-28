@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libertas/libertas_sdio.o := /home/leonardo/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-ld -EL    -r -o drivers/net/wireless/libertas/libertas_sdio.o drivers/net/wireless/libertas/if_sdio.o 

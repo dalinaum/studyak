@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_android.o := /home/leonardo/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-ld -EL    -r -o drivers/usb/gadget/g_android.o drivers/usb/gadget/android.o drivers/usb/gadget/f_adb.o drivers/usb/gadget/f_mass_storage.o 

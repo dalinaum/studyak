@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb/dvb-core/built-in.o :=  /home/leonardo/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-ld -EL    -r -o drivers/media/dvb/dvb-core/built-in.o drivers/media/dvb/dvb-core/dvb-core.o 

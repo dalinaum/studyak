@@ -1,0 +1,1 @@
+cmd_sound/soc/s3c24xx/snd-soc-hkdkc110-wm8991.o := /home/leonardo/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-ld -EL    -r -o sound/soc/s3c24xx/snd-soc-hkdkc110-wm8991.o sound/soc/s3c24xx/hkdkc110_wm8991.o 
